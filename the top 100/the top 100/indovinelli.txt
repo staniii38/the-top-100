@@ -1,0 +1,100 @@
+Cos'ha quattro gambe ma non cammina?|tavolo|È un mobile.
+Qual è il colmo per un elettricista?|rimanere al buio|Lavora con la corrente.
+Cos'è che si rompe senza mai cadere?|silenzio|Non è un oggetto fisico.
+Qual è l'animale che ha la cravatta?|pappagallo|È un uccello parlante.
+Cosa diventa più bagnato quanto più asciuga?|asciugamano|Serve dopo la doccia.
+Qual è la cosa che più è vecchia più è preziosa?|antiquariato|Collezione di oggetti.
+Cos'è che ha una testa ma non pensa?|spillo|Serve per cucire.
+Cosa sale ma non scende mai?|età|Succede con il passare del tempo.
+Qual è la cosa che non cammina ma corre?|acqua|La trovi nei fiumi.
+Cos'è che più è caldo più si spegne?|candela|Dà luce.
+Che cosa ha la chiave ma non apre nessuna porta?|pianoforte|È uno strumento musicale.
+Cos'è che ha le ali ma non vola?|pentola a pressione|Si usa in cucina.
+Qual è il colmo per un fotografo?|essere sempre fuori fuoco|Lavora con immagini.
+Cos'è che ha un occhio ma non vede?|ago|Si usa per cucire.
+Cosa si rompe se si nomina?|silenzio|Non si sente più.
+Qual è la cosa che più la togli più diventa grande?|buco|Un'apertura.
+Cos'è che ha una coda ma non un corpo?|moneta|Si lancia per decisioni.
+Qual è l'animale che porta sempre occhiali?|talpa|Vive sottoterra.
+Cos'è che non si può vedere ma si può sentire?|vento|Muove le foglie.
+Qual è la cosa che corre ma non ha gambe?|fiume|Scorre verso il mare.
+Cos'è che ha denti ma non mangia?|pettine|Serve per i capelli.
+Qual è la cosa che si apre solo se la si rompe?|uovo|Si mangia a colazione.
+Cosa si può tenere solo dopo averla data?|parola|Un impegno.
+Qual è la cosa che tutti possono aprire ma nessuno chiudere?|occhi|Si usano per vedere.
+Cos'è che ha un cuore che non batte?|carciofo|Una verdura.
+Qual è l'animale più vecchio?|tartaruga|Vive molto a lungo.
+Cos'è che si trova sempre in mezzo all'acqua?|la lettera c|È una lettera.
+Cos'è che può riempire una stanza senza occupare spazio?|luce|Si accende con un interruttore.
+Qual è il colmo per un giardiniere?|non avere pollice verde|Lavora con le piante.
+Cos'è che si può rompere ma non toccare?|promessa|È un impegno morale.
+Qual è la cosa che sale e scende ma resta sempre nello stesso posto?|scala|Serve per salire.
+Cos'è che ha quattro dita ma non un pollice?|guanto|Si indossa alla mano.
+Qual è la cosa che può volare senza ali?|tempo|Non si vede.
+Cos'è che cresce ma non vive?|capelli|Crescono sulla testa.
+Qual è la cosa che puoi sentire ma non vedere né toccare?|voce|Esce dalla bocca.
+Cos'è che ha molte chiavi ma non apre nessuna porta?|pianoforte|Strumento musicale.
+Qual è la cosa che puoi rompere senza toccarla?|silenzio|Si perde con il rumore.
+Cos'è che si rompe ma non cade?|promessa|È un impegno.
+Qual è la cosa che più è calda meno si usa?|forno|Serve per cucinare.
+Cos'è che cresce ma non mangia?|età|Succede con il tempo.
+Qual è la cosa che cade ma non si rompe?|pioggia|Scende dal cielo.
+Cos'è che ha le ali ma non può volare?|faretra|Contiene frecce.
+Qual è la cosa che si apre e si chiude ma non è una porta?|bocca|Si usa per parlare.
+Cos'è che ha il naso ma non odora?|volto|È parte del corpo.
+Qual è la cosa che più è piena più pesa?|borsa|La porti con te.
+Cos'è che ha i piedi ma non cammina?|ombrello|Serve contro la pioggia.
+Qual è la cosa che dorme in piedi?|cavallo|Animale da corsa.
+Cos'è che più lo togli più diventa grande?|buco|Un'apertura.
+Qual è la cosa che ha un collo ma non una testa?|bottiglia|Contiene liquidi.
+Cos'è che cresce senza vita?|capelli|Crescono sulla testa.
+Qual è la cosa che vola senza ali e piange senza occhi?|nuvola|Si vede in cielo.
+Cos'è che ha un solo dente ma non morde?|pettine|Serve per i capelli.
+Qual è la cosa che si rompe se la si dice?|silenzio|Si perde parlando.
+Cos'è che non parla ma risponde?|telefono|Serve a comunicare.
+Qual è la cosa che ha tante pagine ma non è un libro?|giornale|Si legge ogni giorno.
+Cos'è che ha le gambe ma non cammina?|tavolo|Mobile.
+Qual è la cosa che vola senza muoversi?|tempo|Non si vede.
+Cos'è che può attraversare il vetro senza romperlo?|luce|Rifrazione.
+Qual è la cosa che è tua ma tutti la usano?|nome|Ti identifica.
+Cos'è che sale ma non scende?|età|Succede con il tempo.
+Qual è la cosa che ha la bocca ma non parla?|fiume|Scorre.
+Cos'è che più è bagnato più asciuga?|asciugamano|Si usa dopo il bagno.
+Qual è la cosa che ha una chiave ma non apre porte?|pianoforte|Strumento musicale.
+Cos'è che ha un cuore che non batte?|carciofo|Verdura.
+Qual è la cosa che ha un piede ma non cammina?|ombrello|Si usa contro la pioggia.
+Qual è la cosa che ha quattro gambe ma non cammina?|sedia|Mobile.
+Qual è la cosa che non cammina ma corre?|acqua|Si muove nei fiumi.
+Cos'è che più si toglie più diventa grande?|buco|Apertura.
+Qual è la cosa che ha denti ma non morde?|pettine|Si usa per pettinare.
+Cos'è che si può rompere ma non toccare?|promessa|Impegno morale.
+Qual è la cosa che sale e scende ma resta sempre nello stesso posto?|scala|Si usa per salire.
+Cos'è che dorme in piedi?|cavallo|Animale.
+Qual è la cosa che può volare senza ali?|tempo|Non si vede.
+Cos'è che cresce ma non vive?|capelli|Crescono.
+Qual è la cosa che puoi sentire ma non vedere?|voce|Esce dalla bocca.
+Qual è la cosa che ha molte chiavi ma non apre porte?|pianoforte|Strumento musicale.
+Cos'è che si rompe ma non cade?|promessa|Impegno.
+Qual è la cosa che più è calda meno si usa?|forno|Serve per cucinare.
+Cos'è che cade ma non si rompe?|pioggia|Scende dal cielo.
+Qual è la cosa che si apre e si chiude ma non è una porta?|bocca|Si usa per parlare.
+Cos'è che ha il naso ma non odora?|volto|Parte del corpo.
+Qual è la cosa che più è piena più pesa?|borsa|La porti.
+Cos'è che ha i piedi ma non cammina?|ombrello|Serve contro la pioggia.
+Cos'è che ha una porta ma nessuna stanza?|frigorifero|Si usa in cucina per conservare il cibo.
+Qual è la cosa che si rompe senza mai cadere?|silenzio|Quando parli non c'è più.
+Cosa ha un occhio ma non può vedere?|ago|Serve per cucire.
+Qual è la cosa che più togli e più diventa grande?|buco|Un'apertura.
+Cosa ha quattro gambe ma non cammina?|sedia|Si usa per sedersi.
+Qual è la cosa che più è asciutta più bagna?|asciugamano|Si usa dopo il bagno.
+Cos'è che non cammina ma corre?|acqua|La trovi nei fiumi.
+Cosa ha una testa ma non pensa?|spillo|Serve per appuntare.
+Qual è la cosa che vola senza ali?|tempo|Non si vede ma passa.
+Cos'è che ha denti ma non morde?|pettine|Serve per i capelli.
+Qual è la cosa che ha un collo ma non una testa?|bottiglia|Si usa per contenere liquidi.
+Cosa si apre solo se la rompi?|uovo|Si mangia a colazione.
+Cos'è che si può tenere solo dopo averlo dato?|parola|Un impegno morale.
+Qual è la cosa che ha tante chiavi ma non apre porte?|pianoforte|Strumento musicale.
+Cos'è che non parla ma risponde?|telefono|Serve a comunicare.
+Qual è la cosa che cade ma non si rompe?|pioggia|Scende dal cielo.
+Cos'è che cresce senza vita?|capelli|Crescono sulla testa.

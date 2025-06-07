@@ -1,0 +1,14 @@
+C:\Users\stani\source\repos\the top 100\the top 100\bin\Debug\net8.0\the top 100.exe
+C:\Users\stani\source\repos\the top 100\the top 100\bin\Debug\net8.0\the top 100.deps.json
+C:\Users\stani\source\repos\the top 100\the top 100\bin\Debug\net8.0\the top 100.runtimeconfig.json
+C:\Users\stani\source\repos\the top 100\the top 100\bin\Debug\net8.0\the top 100.dll
+C:\Users\stani\source\repos\the top 100\the top 100\bin\Debug\net8.0\the top 100.pdb
+C:\Users\stani\source\repos\the top 100\the top 100\obj\Debug\net8.0\the top 100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\source\repos\the top 100\the top 100\obj\Debug\net8.0\the top 100.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\the top 100\the top 100\obj\Debug\net8.0\the top 100.AssemblyInfo.cs
+C:\Users\stani\source\repos\the top 100\the top 100\obj\Debug\net8.0\the top 100.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\the top 100\the top 100\obj\Debug\net8.0\the top 100.dll
+C:\Users\stani\source\repos\the top 100\the top 100\obj\Debug\net8.0\refint\the top 100.dll
+C:\Users\stani\source\repos\the top 100\the top 100\obj\Debug\net8.0\the top 100.pdb
+C:\Users\stani\source\repos\the top 100\the top 100\obj\Debug\net8.0\the top 100.genruntimeconfig.cache
+C:\Users\stani\source\repos\the top 100\the top 100\obj\Debug\net8.0\ref\the top 100.dll
